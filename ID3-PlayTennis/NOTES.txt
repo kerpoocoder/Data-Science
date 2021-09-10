@@ -1,0 +1,6 @@
+We have a binary data set in the .csv file
+The target feature is "PlayTennis"
+An id3 model is learned by PlayTennisID3.py
+A graphical output of the tree will be stored by graphshow.py in ID3.gv.pdf
+graphviz module is needed!!!
+

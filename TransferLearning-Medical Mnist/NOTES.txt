@@ -1,0 +1,3 @@
+Transfer learning based on vgg16 model on medical mnist data with keras.
+some part of the complete data just used for train because of restricted resources.
+using complete data attains a high accuracy.

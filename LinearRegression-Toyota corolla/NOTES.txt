@@ -1,1 +1,2 @@
 linear regression by python and scikitlearn to determining car prices.
+a simple feature selection by correlation matrix is used!

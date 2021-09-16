@@ -1,0 +1,2 @@
+feature selection for hand written Mnist data with pca method and also pca-tsne combined method!
+You can see the resault of 10 classes (0,1,...,9) in colored points.
